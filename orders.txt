@@ -1,0 +1,5 @@
+lucky,Arduino UNO R3 : 1200tk
+lucky,Water pump : 200tk
+ammu,Automated Watering system : 2500 tk
+lucky,Arduino UNO R3 : 1200tk
+Habiba,Water pump : 200tk
